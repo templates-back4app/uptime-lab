@@ -6,7 +6,7 @@
 
 Measured on 27 October 2026 with Docker 29.4.3: the container status, the port check and the health check all pass while every user request returns **500**. Only the crashed process is caught — the one failure you would have found out about anyway.
 
-> **Read the article:** [Your App Is Down and Nothing Told You. How to Keep It Alive on Back4app](https://www.back4app.com/blog/your-app-is-down-and-nothing-told-you?utm_source=github&utm_medium=repo&utm_campaign=uptime-lab)
+> **Read the article:** [Health Check Passes but the App Is Down: How to Monitor a Container for Real](https://www.back4app.com/blog/health-check-passes-but-app-is-down?utm_source=github&utm_medium=repo&utm_campaign=uptime-lab)
 
 ## Run it
 
